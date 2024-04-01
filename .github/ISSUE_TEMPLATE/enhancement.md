@@ -1,0 +1,22 @@
+---
+name: Enhancement
+about: Small improvement / enhancement (not a full feature request)
+title: "[ENHANCE]"
+labels: enhancement
+assignees: ''
+
+---
+
+# Summary
+
+[Brief overview of the enhancement and why it is needed or desired]
+
+# Motivation
+
+[More detailed explanation of the motivation for the enhancement, including any benefits it would provide]
+
+# Description
+
+[Detailed description of the enhancement, including how it would work and any design considerations]
+
+## Alternatives
